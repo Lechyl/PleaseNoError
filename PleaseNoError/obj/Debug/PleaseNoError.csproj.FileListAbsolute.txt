@@ -1,0 +1,10 @@
+C:\Users\SDE-03062\source\repos\PleaseNoError\PleaseNoError\bin\PleaseNoError.dll.config
+C:\Users\SDE-03062\source\repos\PleaseNoError\PleaseNoError\bin\PleaseNoError.dll
+C:\Users\SDE-03062\source\repos\PleaseNoError\PleaseNoError\bin\PleaseNoError.pdb
+C:\Users\SDE-03062\source\repos\PleaseNoError\PleaseNoError\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SDE-03062\source\repos\PleaseNoError\PleaseNoError\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SDE-03062\source\repos\PleaseNoError\PleaseNoError\obj\Debug\PleaseNoError.csproj.CoreCompileInputs.cache
+C:\Users\SDE-03062\source\repos\PleaseNoError\PleaseNoError\obj\Debug\PleaseNoError.dll
+C:\Users\SDE-03062\source\repos\PleaseNoError\PleaseNoError\obj\Debug\PleaseNoError.pdb
+C:\Users\SDE-03062\source\repos\PleaseNoError\PleaseNoError\obj\Debug\PleaseNoError.csprojResolveAssemblyReference.cache
+C:\Users\SDE-03062\source\repos\PleaseNoError\PleaseNoError\obj\Debug\PleaseNoError.csproj.CopyComplete
